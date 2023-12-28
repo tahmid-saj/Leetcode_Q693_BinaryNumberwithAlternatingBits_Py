@@ -1,0 +1,1 @@
+# Leetcode_Q693_BinaryNumberwithAlternatingBits_Py
